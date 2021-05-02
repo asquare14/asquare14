@@ -5,11 +5,11 @@
 #### I'm a Software Engineer, based in Bangalore, India. Currently, in [Guwahati](https://en.wikipedia.org/wiki/Guwahati) due to lockdown.
 
 - 🏢 I'm currently interning with at **Morgan Stanley.**
-- 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**
+- 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**.
 - 🌍 I support and volunteer with: **Women Who Code, Lean In.**
-- 💬 Ping me about: **open source**, **diversity & inclusion** 🌈 , **mentorship**
+- 💬 Ping me about: **open source**, **diversity & inclusion** 🌈 , **mentorship**.
 - 📫 Reach me asap: <a href="https://twitter.com/atibhi_a/">Twitter</a> or atibhi.a@gmail.com ✉️
-- 💜 Interests: Books 📚, Art 🎨, Travelling 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
+- 💜 Interests: Books 📚, Art 🎨, Travelling. 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
 - 😄 Passionate about building accessible software and helping underrepresented folks get into tech.
 
 #### Find me around the web 🌎:
