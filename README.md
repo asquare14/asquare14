@@ -1,16 +1,21 @@
-### Hi there 👋
+#### Hello, I'm Atibhi 👋 
 
-<!--
-**aSquare14/asquare14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### I'm an Software Engineer, based in Bangalore, India. Currently, in [Guwahati](https://en.wikipedia.org/wiki/Guwahati).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently interning with at **Morgan Stanley.**
+- 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**
+- 🌍 I support and volunteer with: **Women Who Code, Lean In.**
+- 💬 Ping me about: **open source**, **diversity & inclusion** 🌈 , **mentorship**
+- 📫 Reach me asap: <a href="https://twitter.com/atibhi_a/">Twitter</a> or atibhi.a@gmail.com ✉️
+- 💜 Interests: Books 📚, Art 🎨, Travelling 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
+- 😄 Passionate about building accessible software and helping underrepresented folks get into tech.
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/atibhia/">LinkedIn</a>
+- ✍️ Blogging on <a href="http://atibhiagrawal.medium.com/"> Medium </a>.
+- 🐦 Tweeting about open source, books and sharing tech tweets on <a href="https://twitter.com/atibhi_a/">Twitter</a>
+- 📚 Sharing what I read on <a href="https://www.goodreads.com/user/show/74108752-atibhi-agrawal"> Goodreads</a>
+
+---
