@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm an Software Engineer, based in Bangalore, India. Currently, in [Guwahati](https://en.wikipedia.org/wiki/Guwahati).
+#### I'm a Software Engineer, based in Bangalore, India. Currently, in [Guwahati](https://en.wikipedia.org/wiki/Guwahati) due to lockdown.
 
 - 🏢 I'm currently interning with at **Morgan Stanley.**
 - 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**
