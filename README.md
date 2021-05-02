@@ -14,7 +14,7 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/atibhia/">LinkedIn</a>
-- ✍️ Blogging on <a href="http://atibhiagrawal.medium.com/"> Medium </a>.
+- ✍️ Blogging on <a href="http://atibhiagrawal.medium.com/"> Medium </a>
 - 🐦 Tweeting about open source, books and sharing tech tweets on <a href="https://twitter.com/atibhi_a/">Twitter</a>
 - 📚 Sharing what I read on <a href="https://www.goodreads.com/user/show/74108752-atibhi-agrawal"> Goodreads</a>
 
