@@ -5,9 +5,8 @@
 
 ---
 
-#### I'm a Software Engineer, based in Bangalore, India. Currently, I am in [Guwahati](https://en.wikipedia.org/wiki/Guwahati) due to lockdown.
+#### I'm a Software Engineer at Twitter, based in Bangalore, India. Currently, I am in [Guwahati](https://en.wikipedia.org/wiki/Guwahati) due to lockdown.
 
-- 🏢 I'm currently interning with **Morgan Stanley.**
 - 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**.
 - 🌍 I support and volunteer with: **Women Who Code, Lean In.**
 - 💬 Ping me about: **open source**, **diversity & inclusion** 🌈 , **mentorship**.
