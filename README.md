@@ -5,14 +5,14 @@
 
 ---
 
-#### I'm a Software Engineer at Twitter, based in Bangalore, India. Currently, I am in [Guwahati](https://en.wikipedia.org/wiki/Guwahati) due to lockdown.
+#### I'm a Software Engineer at Prime Video, Amazon, based in London, United Kingdom. Originally from the small town of [Guwahati](https://en.wikipedia.org/wiki/Guwahati) ⛰️
 
-- 🌱 Learning more about and studying: **Distributed Systems, Golang, Java, Open Source, CS Algorithms**.
+- 🌱 Learning more about and studying: **Distributed Systems, Java, Open Source, CS Algorithms, C++**.
 - 🌍 I support and volunteer with: **Women Who Code, Lean In.**
-- 💬 Ping me about: **open source**, **diversity & inclusion** 🌈 , **mentorship**.
-- 📫 Reach me asap: <a href="https://twitter.com/atibhi_a/">Twitter</a> or atibhi.a@gmail.com ✉️
+- 💬 Ping me about: **interesting problems**, **startup ideas**, **open source**, **diversity & inclusion** 🌈 , **mentorship**.
+- 📫 Reach me asap: atibhi.a@gmail.com ✉️
 - 💜 Interests: Books 📚, Art 🎨, Travelling. 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
-- 😄 Passionate about building accessible software and helping underrepresented folks get into tech.
+- 😄 Passionate about building software to solve real-world problems.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/atibhia/">LinkedIn</a>
