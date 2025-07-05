@@ -11,7 +11,7 @@
 - 🌍 I support and volunteer with: **Women Who Code, Lean In.**
 - 💬 Ping me about: **interesting problems**, **startup ideas**, **open source**, **diversity & inclusion** 🌈 , **mentorship**.
 - 📫 Reach me asap: atibhi.a@gmail.com ✉️
-- 💜 Interests: Books 📚, Art 🎨, Travelling. 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
+- 💜 Interests: Books 📚, Art 🎨, Travelling. 
 - 😄 Passionate about building software to solve real-world problems.
 
 #### Find me around the web 🌎:
