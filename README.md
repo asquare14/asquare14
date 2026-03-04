@@ -14,7 +14,7 @@
 - 💜 Interests: Books 📚, Art 🎨, Travelling. 
 - 😄 Passionate about building software to solve real-world problems.
 
-#### Find me around the web 🌎:
+### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/atibhia/">LinkedIn</a>
 - ✍️ Blogging on <a href="http://atibhiagrawal.medium.com/"> Medium </a>
 - 📚 Sharing what I read on <a href="https://www.goodreads.com/user/show/74108752-atibhi-agrawal"> Goodreads</a>
