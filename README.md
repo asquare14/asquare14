@@ -5,14 +5,15 @@
 
 ---
 
-#### I'm a Software Engineer at AmazonAds working with the GenAI Platform Team, based in London, United Kingdom. Previously worked with  Prime Video and Twitter. Originally from the small town of [Guwahati](https://en.wikipedia.org/wiki/Guwahati) ⛰️
+#### I'm a Software Engineer at Elevenlabs on the AdsEngine team. Prev was at Amazon and before that Twitter. I am based in London, United Kingdom. Originally from the small town of [Guwahati](https://en.wikipedia.org/wiki/Guwahati) ⛰️
 
-- 🌱 Learning more about and studying: **Distributed Systems, Java, Open Source, CS Algorithms, C++**.
-- 🌍 I support and volunteer with: **Women Who Code, Lean In.**
+- 😄 Want to build impactful, accessible, and inclusive tech.
+- Interested in agents, distributed systems, algorithms, and open source. 
+- Always curious.
+- Love finding and solving problems.
 - 💬 Ping me about: **interesting problems**, **startup ideas**, **open source**, **diversity & inclusion** 🌈 , **mentorship**.
 - 📫 Reach me asap: atibhi.a@gmail.com ✉️
 - 💜 Interests: Books 📚, Art 🎨, Travelling. 
-- 😄 Passionate about building software to solve real-world problems.
 
 ### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/atibhia/">LinkedIn</a>
